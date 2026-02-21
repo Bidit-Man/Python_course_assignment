@@ -1,2 +1,4 @@
 # Python_course_assignment
-Only assignment
+Assigent on data scraping
+Done on kathmandu post
+
