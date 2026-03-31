@@ -22,8 +22,8 @@ https://english.onlinekhabar.com/category/political
 ---
 
 ##  Tech Used
--Python
--requests – for sending HTTP requests
--BeautifulSoup – for parsing HTML
--json – for storing data
--datetime – for timestamping
+- Python
+- requests – for sending HTTP requests
+- BeautifulSoup – for parsing HTML
+- json – for storing data
+- datetime – for timestamping
